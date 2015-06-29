@@ -5,6 +5,6 @@ var site = {
     title: 'NBlog',
     author: 'gefangshuai',
     email: 'gefangshuai@163.com',
-    copyright: new Date().getYear
+    copyright: new Date().getFullYear()
 };
 module.exports.site = site;
