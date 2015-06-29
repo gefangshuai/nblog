@@ -1,0 +1,22 @@
+{
+  "name": "NBlog",
+  "version": "0.0.1",
+  "authors": [
+    "gefangshuai <gefangshuai@163.com>"
+  ],
+  "directory": "public",
+  "description": "Blog build by node express",
+  "license": "MIT",
+  "homepage": "http://wincn.net",
+  "dependencies": {
+    "bootstrap": "v3.3.5",
+    "jquery": "1.9.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
